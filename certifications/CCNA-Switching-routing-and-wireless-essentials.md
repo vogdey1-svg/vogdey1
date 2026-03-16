@@ -1,4 +1,4 @@
-CCNA: Switching, Routing, and Wireless Essentials
+## CCNA: Switching, Routing, and Wireless Essentials
 
 This badge was issued to Emanuel Zuluaga Palacio
 Date issued: December 16, 2025
