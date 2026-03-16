@@ -1,4 +1,4 @@
-CCNA: Introduction to networks
+## CCNA: Introduction to networks
 This badge was issued to Emanuel Zuluaga Palacio
 
 Date issued: July 26, 2025
